@@ -23,3 +23,6 @@ Also, i am
   - medium : https://medium.com/@breudes;
   - artstation: https://www.artstation.com/breudes;
   - instagram (art purpose): https://www.instagram.com/_breudes.
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=breudes&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+![Breudes's GitHub stats](https://github-readme-stats.vercel.app/api?username=breudes&show_icons=true)
