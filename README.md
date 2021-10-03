@@ -14,11 +14,11 @@ Also, i am
   - Software's Tests;
   - Python and data analysis.
 
-📫 Contact
+📫 Contact me
   - [e-mail](breudes@outlook.com)
   - [linkedin](https://www.linkedin.com/in/brenda-souza-226278179/)
     
-⚡ I also active on
+⚡ I'm also active on
   - dev.to : https://dev.to/breudes
   - medium : https://medium.com/@breudes
   - artstation: https://www.artstation.com/breudes
