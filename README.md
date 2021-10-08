@@ -7,7 +7,7 @@ Also, i am
   - beginner back-end dev; 
   - beginner illustrator;
   - IT's undergraduate student at [@IMD-UFRN](https://imd.ufrn.br/portal/);
-  - IT's technician at [@EAJ-UFRN](https://eaj.ufrn.br/).
+  - IT's technician by [@EAJ-UFRN](https://eaj.ufrn.br/).
   
 🌱 I'm currently learning ... 
   - Java, Spring and Hibernate;
