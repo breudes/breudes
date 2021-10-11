@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-😄 I'm Brenda Souza (aka breudes), i'm brazilian and my prounouns are she/her.
+😄 I'm Brenda Souza (aka breudes), i'm brazilian and my prounouns are she/her. I understand these languages: brazilian-portuguese, english and spanish. 
 
 Also, i am
   - IT's scholar at [@SGP-UFRN](https://sgp.ufrn.br/);
