@@ -3,7 +3,7 @@
 😄 I'm Brenda Souza (aka breudes), I'm brazilian and my prounouns are she/her. I understand these languages: brazilian-portuguese, english and spanish. 
 
 Also, I am
-  - IT's scholar at [@SGP-UFRN](https://sgp.ufrn.br/);
+  - BackEnd Intern at [@AluraLatam](https://www.aluracursos.com/);
   - beginner back-end dev; 
   - beginner illustrator;
   - IT's undergraduate student at [@IMD-UFRN](https://imd.ufrn.br/portal/);
