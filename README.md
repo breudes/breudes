@@ -4,7 +4,7 @@
 
 Also, I am
   - BackEnd Intern at [@AluraLatam](https://www.aluracursos.com/);
-  - beginner back-end dev; 
+  - back-end dev; 
   - beginner illustrator;
   - IT's undergraduate student at [@IMD-UFRN](https://imd.ufrn.br/portal/);
   - IT's technician by [@EAJ-UFRN](https://eaj.ufrn.br/).
