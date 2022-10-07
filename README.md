@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-😄 I'm Brenda Souza (aka breudes), I'm brazilian and my prounouns are she/they. I understand these languages: brazilian-portuguese, english and spanish. 
+😄 I'm Brenda Souza (aka breudes), I'm brazilian and my prounouns are she/they. I understand these languages: brazilian-portuguese, english and spanish. I'm currently learning how to speak korean.
 
 Also, I am
   - BackEnd Intern at [@AluraLatam](https://www.aluracursos.com/);
